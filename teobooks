@@ -1,0 +1,1047 @@
+#header{
+top: 20px;
+}
+ h1 {
+ margin-left: 750px;
+ font-family: FANTASY;
+font-size: 100px;
+color: aqua;
+text-shadow: 10px 10px 10px #000;
+ }
+ body {
+	 background: url(21.jpg);
+ }
+ #navbar{
+	margin:0px;
+	padding:0px;
+	padding-left: 10px;
+	list-style-type:none;
+	width: 100%;
+	text-align: center;
+	background-color:aqua;
+	border: 2px solid purple;
+	border-radius: 50px 50px;
+	font-size: 30px;
+	}
+	#navbar a{
+	color:black;
+	margin:10px 20px;
+	text-decoration:none;
+	font-weight:bold;
+	display:inline-block;
+	}
+	#navbar li{
+	display:inline;
+	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+	padding:10px 0px 10px 0px ;
+	}
+	#navbar li:hover{
+	background-color:orange;
+	}
+	#content p {
+		margin:5px;
+		text-indent:20px;
+		font-family: Impact  'Arial Narrow Bold' sans-serif ;
+		font-size: 25px;
+	}
+	
+	#content {
+
+		margin-left: 240px;
+		margin-top:40px;
+		margin-right: 300px;
+		background:aqua;
+		border: 4px solid purple;
+		border-radius: 10px;
+	}
+
+	#photo {
+	padding-right: 10px;
+	float: left;
+	width: 240px;
+	margin-top: 10 px;
+	border-radius: 2px;
+	border-color: azure;
+	
+	}
+	img {
+		
+		width: 220px;
+		height: 200px;
+	}
+	.isda { margin-top: 10px;
+	margin-left: 5px;}
+
+	#Footer {
+		float:right;
+		background-color:purple;
+		padding-top: 5px;
+		padding-bottom: 10px;
+		clear: both;
+		text-align: center;
+		position: fixed;
+		bottom: 0px;
+		width: 600px;
+		border-radius: 5px;
+	}
+	#footer p {
+		color: aqua;
+		font-family: Georgia, 'Times New Roman', Times, serif;
+		text-shadow: 10px 10px 10px #000;
+		font-size: 20px;
+	}
+	
+#header{
+    top: 20px;
+    }
+     h1 {
+     margin-left: 750px;
+     font-family: FANTASY;
+    font-size: 100px;
+    color: aqua;
+    text-shadow: 10px 10px 10px #000;
+     }
+    h2 {
+        margin-left: 850px;
+        font-family: FANTASY;
+       font-size: 50px;
+       color: aqua;
+       text-shadow: 10px 10px 10px #000;
+     }
+     body {
+         background: url(21.jpg) ;
+         background-size: 100%;
+     }
+     #navbar{
+        margin:0px;
+        padding:0px;
+        padding-left: 10px;
+        list-style-type:none;
+        width: 100%;
+        text-align: center;
+        background-color:aqua;
+        border: 2px solid purple;
+        border-radius: 50px 50px;
+        font-size: 30px;
+        box-shadow: 0px 0px 15px 10px #000;
+        }
+        #navbar a{
+        color:black;
+        margin:10px 20px;
+        text-decoration:none;
+        font-weight:bold;
+        display:inline-block;
+        }
+        #navbar li{
+        display:inline;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        padding:10px 0px 10px 0px ;
+        }
+        #navbar li:hover{
+        background-color:orange;
+        }
+        .ger img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 300px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: left;
+        }
+        .ger2 {
+            margin:5px;
+            text-indent:20px;
+            font-family: Impact  'Arial Narrow Bold' sans-serif ;
+            font-size: 30px;
+        }
+        .ger2 {
+         
+            margin-left: 240px;
+            margin-top:60px;
+            margin-right: 300px;
+            background:aqua;
+            border: 4px solid purple;
+            border-radius: 10px;
+            width: 1500px;
+            height: 400px;
+            box-shadow: 0px 0px 5px 5px #000;
+            
+        }
+        .ger3 img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 300px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: right;
+        }
+        .ger4 {
+            margin:5px;
+            text-indent:20px;
+            font-family: Impact  'Arial Narrow Bold' sans-serif ;
+            font-size: 30px;
+        }
+        .ger4 {
+         
+            margin-left: 240px;
+            margin-top:60px;
+            margin-right: 300px;
+            background:aqua;
+            border: 4px solid purple;
+            border-radius: 10px;
+            width: 1500px;
+            height: 400px;
+            box-shadow: 0px 0px 5px 5px #000;
+            
+        }
+
+        .ger5 img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 300px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: left;
+        }
+        .ger6 {
+            margin:5px;
+            text-indent:20px;
+            font-family: Impact  'Arial Narrow Bold' sans-serif ;
+            font-size: 30px;
+        }
+        .ger6 {
+         
+            margin-left: 240px;
+            margin-top:60px;
+            margin-right: 300px;
+            background:aqua;
+            border: 4px solid purple;
+            border-radius: 10px;
+            width: 1500px;
+            height: 400px;
+            box-shadow: 0px 0px 5px 5px #000;
+            
+        }
+        .ger7 img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 300px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: right;
+        }
+        .ger8 {
+            margin:5px;
+            text-indent:20px;
+            font-family: Impact  'Arial Narrow Bold' sans-serif ;
+            font-size: 30px;
+        }
+        .ger8 {
+         
+            margin-left: 240px;
+            margin-top:60px;
+            margin-right: 300px;
+            background:aqua;
+            border: 4px solid purple;
+            border-radius: 10px;
+            width: 1500px;
+            height: 400px;
+            box-shadow: 0px 0px 5px 5px #000;
+            
+        }
+        .ger9 img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 300px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: left;
+        }
+        .ger10 {
+            margin:5px;
+            text-indent:20px;
+            font-family: Impact  'Arial Narrow Bold' sans-serif ;
+            font-size: 30px;
+        }
+        .ger10 {
+         
+            margin-left: 240px;
+            margin-top:60px;
+            margin-right: 300px;
+            background:aqua;
+            border: 4px solid purple;
+            border-radius: 10px;
+            width: 1500px;
+            height: 400px;
+            box-shadow: 0px 0px 5px 5px #000;
+            
+        }
+        .ger11 img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 300px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: right;
+        }
+        .ger12 {
+            margin:5px;
+            text-indent:20px;
+            font-family: Impact  'Arial Narrow Bold' sans-serif ;
+            font-size: 30px;
+        }
+        .ger12 {
+         
+            margin-left: 240px;
+            margin-top:60px;
+            margin-right: 300px;
+            background:aqua;
+            border: 4px solid purple;
+            border-radius: 10px;
+            width: 1500px;
+            height: 400px;
+            box-shadow: 0px 0px 5px 5px #000;
+            
+        }
+        #Footer {
+		
+            background-color:purple;
+            padding-top: 5px;
+            padding-bottom: 10px;
+            clear: both;
+            text-align: center;
+            position: fixed;
+            bottom: 0px;
+            width: 600px;
+            border-radius: 5px;
+        }
+        #footer p {
+            color: aqua;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-shadow: 10px 10px 10px #000;
+            font-size: 20px;
+        }
+        
+header{
+    top: 20px;
+    }
+     h1 {
+     margin-left: 750px;
+     font-family: FANTASY;
+    font-size: 100px;
+    color: aqua;
+    text-shadow: 10px 10px 10px #000;
+     }
+    h2 {
+        margin-left: 850px;
+        font-family: FANTASY;
+       font-size: 50px;
+       color: aqua;
+       text-shadow: 10px 10px 10px #000;
+     }
+     body {
+         background: url(21.jpg) ;
+         background-size: 100%;
+     }
+     #navbar{
+        margin:0px;
+        padding:0px;
+        padding-left: 10px;
+        list-style-type:none;
+        width: 100%;
+        text-align: center;
+        background-color:aqua;
+        border: 2px solid purple;
+        border-radius: 50px 50px;
+        font-size: 30px;
+        box-shadow: 0px 0px 15px 10px #000;
+        }
+        #navbar a{
+        color:black;
+        margin:10px 20px;
+        text-decoration:none;
+        font-weight:bold;
+        display:inline-block;
+        }
+        #navbar li{
+        display:inline;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        padding:10px 0px 10px 0px ;
+        }
+        #navbar li:hover{
+        background-color:orange;
+        }
+        img {
+            width: 150px;
+		height: 220px;
+        }
+        .ae {
+            
+        font-family: FANTASY;
+       font-size: 40px;
+       color: aqua;
+       text-shadow: 10px 10px 10px #000
+        }
+
+        
+        table {
+            margin: 10px auto 30px;
+            border: 1px solid purple;
+            width: 1500px;
+            border-radius: 50px 50px;
+            border-collapse: collapse;
+        }
+        th {
+           text-align: center;
+            font-size: 23px;
+            font-weight: normal;
+            background: #b9c9fe;
+            border-top: 4px solid #aabcfe;
+            border-bottom: 1px solid white;
+            color: #039;
+            padding: 8px;
+          }
+          td {
+            text-align: center;
+            background: #e8edff;
+            border-bottom: 1px solid white;
+            color: #669;
+            border-top: 1px solid transparent;
+            padding: 8px;
+          }
+          tr:hover td {
+            background: #ccddff;
+          }
+     .bred {
+         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+         font-size: 30px;
+     }
+     .brw {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 50px;
+     }
+     .a {
+        background-color:limegreen;
+        color:  #669 ;
+        padding: 10px 25px;
+        text-align: center;
+        margin: 4px 140px 4px 2px;
+        cursor: pointer;
+        width: 300px ;
+     }
+     #aa {
+        margin-left: 750px;
+    
+     }
+     #Footer {
+		
+      background-color:purple;
+      padding-top: 5px;
+      padding-bottom: 10px;
+      clear: both;
+      text-align: center;
+      position: fixed;
+      bottom: 0px;
+      width: 600px;
+      border-radius: 5px;
+    }
+    #footer p {
+      color: aqua;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      text-shadow: 10px 10px 10px #000;
+      font-size: 20px;
+    }
+    
+header{
+    top: 20px;
+    }
+     h1 {
+     margin-left: 750px;
+     font-family: FANTASY;
+    font-size: 100px;
+    color: aqua;
+    text-shadow: 10px 10px 10px #000;
+     }
+    h2 {
+        margin-left: 750px;
+        font-family: FANTASY;
+       font-size: 50px;
+       color: aqua;
+       text-shadow: 10px 10px 10px #000;
+     }
+     body {
+         background: url(21.jpg) ;
+         background-size: 100%;
+     }
+     #navbar{
+        margin:0px;
+        padding:0px;
+        padding-left: 10px;
+        list-style-type:none;
+        width: 100%;
+        text-align: center;
+        background-color:aqua;
+        border: 2px solid purple;
+        border-radius: 50px 50px;
+        font-size: 30px;
+        box-shadow: 0px 0px 15px 10px #000;
+        }
+        #navbar a{
+        color:black;
+        margin:10px 20px;
+        text-decoration:none;
+        font-weight:bold;
+        display:inline-block;
+        }
+        #navbar li{
+        display:inline;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        padding:10px 0px 10px 0px ;
+        }
+        #navbar li:hover{
+        background-color:orange;
+        }
+        .menu {
+            width: 500px;
+            display: table;
+            text-align: center;
+            margin-left: 700px;
+            margin-top: 50px;
+            }
+            .menu ul {
+            display: table-row;
+            }
+            .menu li {
+            display: table-cell;
+            }
+            .menu ul li:hover, .menu a:hover {
+            background: aqua;
+            border: purple;
+            }
+            .menu li a {
+            display: block;
+            padding: 8px 12px;
+            color: black;
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+            }
+            
+            .menu li a:hover {
+            color: black;
+            }
+            
+            .order {
+            width: 1120px;
+            height: 520px;
+            margin-left: 400px;
+            margin-right: 400px;
+            margin-top: 50px;
+            padding: 5px 10px 10px 10px;
+            background-color: aqua;
+            text-align: center;
+            color: black;
+            border-radius: 20px;
+            box-shadow: 10px 10px 10px rgb(143, 92, 44);
+            }
+            
+            .left {
+            width: 50%;
+            text-align: center;
+            float: left;
+            }
+            
+            .right {
+            width: 50%;
+            text-align: center;
+            float: right;
+            }
+            
+            .pay {
+            margin-top: 10px;
+            width: 50%;
+            float: left;
+            height: 88px;
+            }
+            
+            .call {
+            margin-top: 40px;
+            width: 50%;
+            float: right;
+            height: 88px;
+            }
+            
+            .a {
+            background-color: lime;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+            margin-left: 50px;
+            cursor: pointer;
+            }
+            .b {
+            background-color: #FF0000;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+            cursor: pointer;
+            }
+            
+
+    #Footer {
+		
+        background-color:purple;
+        padding-top: 5px;
+        padding-bottom: 10px;
+        clear: both;
+        text-align: center;
+        position: fixed;
+        bottom: 0px;
+        width: 600;
+        border-radius: 5px;
+      }
+      #footer p {
+        color: aqua;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        text-shadow: 10px 10px 10px #000;
+        font-size: 20px;
+      }
+      
+header{
+    top: 20px;
+    }
+     h1 {
+     margin-left: 900px;
+     font-family: FANTASY;
+    font-size: 100px;
+    color: aqua;
+    text-shadow: 10px 10px 10px #000;
+     }
+    h2 {
+        margin-left: 900px;
+        font-family: FANTASY;
+       font-size: 50px;
+       color: aqua;
+       text-shadow: 10px 10px 10px #000;
+     }
+     body {
+         background: url(21.jpg) ;
+         background-size: 100%;
+     }
+     #navbar{
+        margin:0px;
+        padding:0px;
+        padding-left: 10px;
+        list-style-type:none;
+        width: 100%;
+        text-align: center;
+        background-color:aqua;
+        border: 2px solid purple;
+        border-radius: 50px 50px;
+        font-size: 30px;
+        box-shadow: 0px 0px 15px 10px #000;
+        }
+        #navbar a{
+        color:black;
+        margin:10px 20px;
+        text-decoration:none;
+        font-weight:bold;
+        display:inline-block;
+        }
+        #navbar li{
+        display:inline;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+        padding:10px 0px 10px 0px ;
+        }
+        #navbar li:hover{
+        background-color:orange;
+        }
+        img {
+            margin-top: 10 px;
+            margin-left: 20px;
+            width: 800px;
+		height: 400px;
+     
+        border-radius: 5px;
+        box-shadow: 0px 20px 20px 0px #000;
+        float: left;
+        }
+        .aaa {
+    padding-top: 110px;
+margin-left: 20px;
+            font-family: FANTASY;
+           font-size: 90px;
+           color: aqua;
+           text-shadow: 10px 10px 10px #000;  
+        }
+        .poc {
+        font-size:  50px;
+        padding-top: 90px;
+        margin-left: 20px;
+                    font-family: FANTASY;
+               
+                   color: aqua;
+                   text-shadow: 10px 10px 10px #000; 
+        }
+        .com {
+            width: 100%;
+        }
+        #Footer {
+		
+            background-color:purple;
+            padding-top: 5px;
+            padding-bottom: 10px;
+            clear: both;
+            text-align: center;
+            position: fixed;
+            bottom: 0px;
+            width: 600px;
+            border-radius: 5px;
+          }
+          #footer p {
+            color: aqua;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-shadow: 10px 10px 10px #000;
+            font-size: 20px;
+          }
+<html>
+<head>
+<title>TEObook</title>
+<link rel="stylesheet" type="text/css" href="style.css" >
+</head>
+<body>
+    <div id="header">
+<h1>TEObooks</h1>
+    <ul id="navbar">
+        <li><a href="1.html">Главная</a></li>
+        <li><a href="2.html">Новинки</a></li></a>
+        <li><a href="3.html">Каталог</a></li>
+        <li><a href="4.html">Форма заказа</a></li>
+        <li><a href="5.html">Контакты</a></li>
+      </ul>
+    </div>
+</div>
+<div id="photo" >
+<br><br>
+<div class="isda">
+    <img src="1.jpg">
+	</div>
+	<div class="isda">
+    <img src="2.jpg">
+	</div>
+	<div class="isda">
+    <img src="3.jpg" >
+	</div>
+	<div class="isda">
+    <img src="4.jpg">
+	</div>
+</div>
+    <div id="content">
+    <p>"Книга" - Крупное подразделение литературного произведения, состоящее из многих глав. </p>  <p>Произведение печати (в старину также рукописное) в виде переплетенных листов с каким-нибудь текстом.<P> Сшитые в один переплет чистые или разграфленные большие листы бумаги для записей «Книга» в Энциклопедическом словаре: «Книга» - непериодическое издание в виде сброшюрованных листов печатногоматериала (объемом более 48 страниц); средство информации.</P>
+       <p>Произведение печати (в старину также рукописное) в виде переплетенных листов с каким-нибудь текстом.</P> <P>Сшитые в один переплет чистые или разграфленные большие листы бумаги для записей «Книга» в Энциклопедическом словаре: «Книга» - непериодическое издание в виде сброшюрованных листов печатногоматериала (объемом более 48 страниц); средство информации.</P></P>
+            <p>Нужно ли читать книги в наше время?</p><p>Нужно ли читать книги в наше время? Сейчас молодежь часто говорит: «Читать модно», или «Чтение в тренде».<p> И это действительно так.<P> Но, наблюдая за молодым поколением, которое в общественном транспорте, в парке или в другом месте пристально приковано к чтению, позволяет увидеть истинную заинтересованность. </P><P>И это связано не только с трендом чтения. Читая какой-то интересный сюжет, человек настолько погружается в него, что забывает обо всем окружающем.</p> <p>Подрастающее поколение стремится быть успешным. И обычно, тот, кто понимает зачем читать книги, легко дойдет до своей цели. Книгочтение формирует в сознании видение мира с разной точки зрения, расширяет кругозор, самоутверждение и повышает уровень уверенности в своих силах.Читать — это действительно модно, ведь понять суть процесса чтения не каждому под силу. Ведь все редкостное является уникальным, трендовым.</P></P></p>
+        <P> Сейчас молодежь часто говорит: «Читать модно», или «Чтение в тренде». И это действительно так. Но, наблюдая за молодым поколением, которое в общественном транспорте, в парке или в другом месте пристально приковано к чтению, позволяет увидеть истинную заинтересованность. И это связано не только с трендом чтения. Читая какой-то интересный сюжет, человек настолько погружается в него, что забывает обо всем окружающем.</P> <P>Подрастающее поколение стремится быть успешным. И обычно, тот, кто понимает зачем читать книги, легко дойдет до своей цели. Книгочтение формирует в сознании видение мира с разной точки зрения, расширяет кругозор, самоутверждение и повышает уровень уверенности в своих силах. Читать — это действительно модно, ведь понять суть процесса чтения не каждому под силу. Ведь все редкостное является уникальным, трендовым.</p></P>
+            </P>
+            <br><br>
+            <div id="footer">
+                <p>Деревнин Егор, ИСП-6, 1337qwe123@mail.ru 2022г</p>
+            </div>
+</body>
+</html>
+<html>
+<head>
+<title>TEObook</title>
+<link rel="stylesheet" type="text/css" href="style2.css" >
+</head>
+<body>
+    <div id="header">
+<h1>TEObooks</h1>
+        <ul id="navbar">
+            <li><a href="1.html">Главная</a></li>
+            <li><a href="2.html">Новинки</a></li></a>
+            <li><a href="3.html">Каталог</a></li>
+            <li><a href="4.html">Форма заказа</a></li>
+            <li><a href="5.html">Контакты</a></li>
+          </ul>
+        </div>
+  <h2>Новинки</h2>
+</div>
+<div id="reg">
+    <div class="ger">
+    <img src="5.jpg">
+</div>
+<div class="ger2">
+<p>«451 градус по Фаренгейту» (англ. Fahrenheit 451) — научно-фантастический роман-антиутопия Рэя Брэдбери, изданный в 1953 году. Роман описывает американское общество близкого будущего, в котором книги находятся под запретом; «пожарные», к числу которых принадлежит и главный герой Гай Монтэг, сжигают любые найденные книги. В ходе романа Монтэг разочаровывается в идеалах общества, частью которого он является, становится изгоем и присоединяется к небольшой подпольной группе маргиналов, сторонники которой заучивают тексты книг, чтобы спасти их для потомков. Название книги объясняется в эпиграфе: «451 градус по Фаренгейту — температура, при которой воспламеняется и горит бумага». В книге содержится немало цитат из произведений англоязычных авторов прошлого (таких, как Уильям Шекспир, Джонатан Свифт и другие), а также несколько цитат из Библии.
+    Образы и темы романа, в том числе тема сожжения книг, подвергались различным интерпретациям, в том числе как метафора государственной цензуры и притеснения свободомыслия в тоталитарном обществе.</p>
+</div>
+</div> 
+<br>
+<div id="reg2">
+    <div class="ger3">
+    <img src="6.jpg">
+</div>
+<div class="ger4">
+    <p>Га́рри По́ттер и О́рден Фе́никса (англ. Harry Potter and the Order of the Phoenix) — пятая книга английской писательницы Дж. К. Роулинг о Гарри Поттере. Мировая премьера книги состоялась в Англии летом 2003 года, а российская премьера — в начале 2004. В первые 24 часа с момента начала продаж было продано пять миллионов копий. Является самой длинной книгой в серии.
+        Книга выиграла несколько наград; по ней был снят фильм в 2007 году и выпущена игра от Electronic Arts.Во время летних каникул на Гарри Поттера и его кузена Дадли Дурсля нападают дементоры, и Гарри вынужден применить заклятие Патронуса, чтобы спастись, однако тут же на имя Гарри приходит письмо, в котором его исключают из школы за применение магии на глазах у маглов. Дурсли готовы выкинуть Гарри из дома, даже несмотря на то, что тётя Петуния знает, кто именно угрожал её племяннику и сыну. Ситуацию спасают знакомые Гарри с прошлых лет мракоборцы (боевые маги): Аластор Грюм, Римус Люпин и ещё несколько новых знакомых — маг-метаморф Нимфадора Тонкс.</p>
+</div>
+</div>
+<div id="reg3">
+    <div class="ger5">
+    <img src="7.jpg">
+</div>
+<div class="ger6">
+    <p>«Добродетель эгоизма» (англ. The Virtue of Selfishness: A New Concept of Egoism) — сборник эссе американской писательницы Айн Рэнд, опубликованный в 1964 году в США. Большая часть эссе изначально была опубликована в The Objectivist Newsletter, четырёхстраничном информационном бюллетене, за исключением эссе «Этика объективизма» (англ. The Objectivist Ethics), в основу которого лег доклад Айн Рэнд на симпозиуме «Этика нашего времени» (англ. Ethics in Our Time) в Университете Висконсина.
+        Книга рассматривает тему этики сквозь призму объективистской философии и защищает концепцию «разумного эгоизма» как этической основы свободного капиталистического общества.Идея опубликовать сборник эссе Айн Рэнд принадлежала Беннетту Эрфу, издателю Random House, который ранее выпустил две другие книги писательницы — «Атлант расправил плечи» и «Для нового интеллектуала».
+
+        Изначально Рэнд предложила назвать сборник «Новые границы фашизма». В то время писательница выступала с жёсткой критикой политики президента США Джона Кеннеди.</p>
+    </div>
+</div>
+    <div id="reg4">
+        <div class="ger7">
+        <img src="8.jpg">
+    </div>
+    <div class="ger8">
+        <p>После создания двух повестей о Шерлоке Холмсе «Этюд в багровых тонах» (первая публикация в 1887 году) и «Знак четырёх» (1890) Конан Дойл решил переключиться на короткие рассказы о Холмсе. Рассказы публиковались раз в месяц в номерах с июля 1891 года по июнь 1892 года в недавно появившемся Strand Magazine. Дойлу платили по 30 гиней за каждый рассказ (за целую повесть «Этюд в багровых тонах» писатель получил от издательства Ward, Lock & Co. всего 25 фунтов). Первым 25 июня 1891 года в июльском номере журнала был опубликован рассказ «Скандал в Богемии» (он же затем был первым и в сборнике). Именно в этом рассказе впервые появился персонаж Ирэн Адлер. Публикация рассказов способствовала росту популярности журнала. Целиком сборник был опубликован 14 октября 1892 года издателем Strand Magazine Джорджем Ньюнсом и является первым сборником рассказов о Холмсе. Первый тираж составил 10 000 экземпляров, ещё 4500 копий было напечатано в США издательством Harper Brothers.</p>
+    </div>
+    </div>
+    <div id="reg5">
+        <div class="ger9">
+        <img src="9.jpg">
+    </div>
+    <div class="ger10">
+        <p>«Милые кости» — это история, рассказанная от лица девочки по имени Сюзи Сэлмон, которая в возрасте 14 лет была изнасилована, убита и расчленена человеком, жившим по соседству. Преступление совершается на самых первых страницах книги, его дата — 6 декабря 1973 года; следующие несколько лет Сюзи, попавшая в свой персональный рай, наблюдает за жизнью своих близких и убийцы и размышляет об их судьбах.Иллюстратором публикаций отдельных рассказов в журнале, а затем и всего сборника выступил Сидни Пэджет, он впервые работал над произведениями о Шерлоке Холмсе.
+
+            Во всех рассказах повествование ведётся от первого лица, в качестве рассказчика выступает доктор Ватсон. В ряде рассказов преступники остаются по тем или иным причинам безнаказанными, также постоянно присутствует тема оправдания ложно обвинённого.нига населена довольно большим количеством действующих лиц, у каждого из которых есть своя весомая роль в жизни и смерти Сюзи Сэлмон. Несмотря на то, что убийство так и останется нераскрытым (годы спустя полиция вспахивает кукурузное поле, где была убита девочка.</p>
+    </div>
+    </div>
+    <div id="reg6">
+        <div class="ger11">
+        <img src="10.jpg">
+    </div>
+    <div class="ger12">
+        <p>«Хо́ббит, или Туда́ и обра́тно» (англ. The Hobbit, or There and Back Again) — повесть английского писателя Джона Р. Р. Толкина. Впервые опубликована в 1937 году издательством George Allen & Unwin, став со временем классикой детской литературы. В основе сюжета — путешествие хоббита Бильбо Бэггинса, волшебника Гэндальфа и тринадцати гномов во главе с Торином Дубощитом. Их путь лежит к Одинокой Горе, где находятся гномьи сокровища, охраняемые драконом Смаугом.
+
+            При написании «Хоббита» Толкин обращался к мотивам скандинавской мифологии и древнеанглийской поэмы «Беовульф». По мнению ряда исследователей, на повести отразился опыт участия писателя в Первой мировой войне. Характерной особенностью произведения является противопоставление архаичного и современного стандартов поведения — в частности, через стилистику речи героев. Главный герой, Бильбо Бэггинс, обладает многими характеристиками современного человека и, как следствие, на фоне представителей древнего мира выглядит явным анахронизмом.</p>
+    </div>
+    </div>
+    <div id="footer">
+        <p>Деревнин Егор, ИСП-6, 1337qwe123@mail.ru 2022г</p>
+    </div>
+    </body>
+</html>
+<html>
+<head>
+<title>TEObook</title>
+<link rel="stylesheet" type="text/css" href="style3.css" >
+</head>
+<body>
+  <div id="header">
+    <h1>TEObooks</h1>
+            <ul id="navbar">
+                <li><a href="1.html">Главная</a></li>
+                <li><a href="2.html">Новинки</a></li></a>
+                <li><a href="3.html">Каталог</a></li>
+                <li><a href="4.html">Форма заказа</a></li>
+                <li><a href="5.html">Контакты</a></li>
+              </ul>
+            </div>
+    <h2>Каталог</h2>
+  <div id="tabl"></div>
+<table border="2">
+  <caption class="ae">В продаже</caption>
+  <tr>
+    <th  class="brw">Обложка</th>
+    <th  class="brw">Название товара</th>
+    <th class="brw">Краткое описание.</th>
+    <th  class="brw">Количество в наличи</th>
+    <th  class="brw">Стоимость, руб.</th>
+  </tr>
+  <tr class="bred">
+    <td><img src="11.jpg"></td>
+    <td>Призрак оперы</td>
+    <td> <a href="https://fb.ru/article/161607/myuzikl-prizrak-operyi-syujet-i-kratkoe-soderjanie-o-chem-myuzikl-po-romanu-gastona-leru-prizrak-operyi">Описание</a></td>
+    <td>13шт</td>
+    <td>1199р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="12.jpg"></td>
+    <td>10 негретят</td>
+    <td> <a href="https://kratkoe.com/desyat-negrityat-kratkoe-soderzhanie/">Описание</a></td>
+    <td>28шт</td>
+    <td>599р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="13.jpg"></td>
+    <td>Дюна</td>
+    <td> <a href="https://dune.fandom.com/ru/wiki/Дюна_(роман)">Описание</a></td>
+    <td>58шт</td>
+    <td>1599р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="14.jpg"></td>
+    <td>Идиот</td>
+    <td> <a href="https://dostoevskiyfm.ru/идиот-кратко/">Описание</a></td>
+    <td>158шт</td>
+    <td>399р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="15.jpg"></td>
+    <td>Непонятное исскуство</td>
+    <td> <a href="https://www.labirint.ru/books/639546/">Описание</a></td>
+    <td>108шт</td>
+    <td>999р.</td>
+  </tr class="bred" >
+  <tr class="bred">
+    <td><img src="16.jpg"></td>
+    <td>Ведьмаг</td>
+    <td> <a href="https://vedmak.fandom.com/wiki/Сага_о_Ведьмаке">Описание</a></td>
+    <td>303шт</td>
+    <td>1999р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="17.jpg"></td>
+    <td>Повесть о настоящем человеке</td>
+    <td> <a href="https://obrazovaka.ru/books/polevoy/povest-o-nastoyaschem-cheloveke">Описание</a></td>
+    <td>10шт</td>
+    <td>249р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="18.jpg"></td>
+    <td>Остров сокровищ</td>
+    <td> <a href="https://obrazovaka.ru/books/stivenson/ostrov-sokrovishch">Описание</a></td>
+    <td>77шт</td>
+    <td>1249р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="19.jpg"></td>
+    <td>Божественная комедия</td>
+    <td> <a href="https://spravochnick.ru/literatura/bozhestvennaya_komediya_dante/">Описание</a></td>
+    <td>377шт</td>
+    <td>1099р.</td>
+  </tr>
+  <tr class="bred">
+    <td><img src="20.jpg"></td>
+    <td>Фауст</td>
+    <td> <a href="https://сезоны-года.рф/Фауст.html">Описание</a></td>
+    <td>237шт</td>
+    <td>1099р.</td>
+  </tr>
+</table>
+<br>
+<div id="aa"><button class="a" type="submit" Value="Отправить">Оформить заказ</button>&nbsp;</div>
+
+
+
+
+</table>
+<div id="footer">
+  <p>Деревнин Егор, ИСП-6, 1337qwe123@mail.ru 2022г</p>
+</div>
+</body>
+</html>
+<html>
+<head>
+<title>TEObook</title>
+<link rel="stylesheet" type="text/css" href="style4.css" >
+</head>
+<body class="some-class" bgcolor="#ffffff" text="black" link="#ooffoo" alink="#ooffoo" vlink="blue">
+    <form name="anketa" action="/cgi-bin/anketa.cgi" method="get">
+        <div id="header">
+        
+                <h1>TEObooks</h1>
+                        <ul id="navbar">
+                            <li><a href="1.html">Главная</a></li>
+                            <li><a href="2.html">Новинки</a></li></a>
+                            <li><a href="3.html">Каталог</a></li>
+                            <li><a href="4.html">Форма заказа</a></li>
+                            <li><a href="5.html">Контакты</a></li>
+                          </ul>
+                        </div>
+                        <br>
+                    </div>
+                    <form name="anketa" action="/cgi-bin/anketa.cgi" method="post">
+                    <div class="order">
+                    <div class="left">
+                    <p><b>Имя:</b></p>
+                    <input type="text" size="40" maxlength="50" name="Name" required><br>
+                    <p><b>Фамилия:</b></p>
+                    <input type="text" size="40" maxlength="50" name="Familia" required><br>
+                    <p><b>Отчество:</b></p>
+                    <input type="text" size="40" maxlength="50" name="Otchestvo"><br>
+                    <p><b>E-mail:</b></p>
+                    <input type="text" size="40" maxlength="50" name="email"><br>
+                    <p><b>Телефон:</b></p>
+                    <input type="text" size="40" maxlength="50" name="Number" required><br>
+                    </div>
+                    <div class="right">
+                    <p><b>Адрес:</b></p>
+                    <input type="text" size="40" maxlength="50" name="Articul" required><br>
+                    <p><b>Количество:</b></p>
+                    <input type="text" size="40" maxlength="50" name="Kolichestvo" required><br>
+                    <p><b>Что то еще?</b></p>
+                    <textarea cols="40" rows="5" name="comments" placeholder="Комментарий к заказу"></textarea>
+                    </div>
+                    <div class="pay">
+                    <p><b>Способ оплаты:</b></p>
+                    <select name="pay">
+                    <option value="1">Оплата при получении
+                    <option value="2">Оплата онлайн
+                    </select>
+            
+                    </div>
+                    <div class="call">
+                    <button class="b" type="reset" value="Очистить">Очистить</button>
+                    <button class="a" type="submit" value="Отправить">Отправить</button>
+                    
+<div id="footer">
+    <p>Деревнин Егор, ИСП-6, 1337qwe123@mail.ru 2022г</p>
+</div>
+</body>
+
+</html>
+<html>
+<head>
+<title>TEObook</title>
+<link rel="stylesheet" type="text/css" href="style5.css" >
+</head>
+<body>
+    <div id="header">
+<h1>TEObooks</h1>
+            <ul id="navbar">
+                <li><a href="1.html">Главная</a></li>
+                <li><a href="2.html">Новинки</a></li></a>
+                <li><a href="3.html">Каталог</a></li>
+                <li><a href="4.html">Форма заказа</a></li>
+                <li><a href="5.html">Контакты</a></li>
+              </ul>
+            </div>
+    <h2>Контакты/Отзовы</h2>
+    <ul class="poc">
+        <li>Наша почта - teobooks@mail.ru</li>
+        <li>Наш тлф- +7777777777</li>
+        <li>м.Тверская Верхняя Аллея дом 1</li>
+        <li>Часы работы: c 9:00 до 20:00</li>
+        <li>Без выходных</li>
+      </ul>
+    <div id="onas">
+        <img src="22.jpg"><P class="aaa">-Местоположение</p>
+    
+    </div>
+    <br><br><br>    <br><br><br>    
+    <textarea class="com" cols="25" rows="5" name="comments" placeholder="Оставьте ваш комментарий"></textarea>
+    <div id="footer">
+        <p>Деревнин Егор, ИСП-6, 1337qwe123@mail.ru 2022г</p>
+    </div>
+</body>
+</html>
